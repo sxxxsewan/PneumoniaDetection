@@ -136,7 +136,7 @@ Open `main.ipynb` in Jupyter and run cells in order:
 
 ## Dataset
 
-Based on the [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) dataset from Kaggle.
+Based on the [Chest X‑Ray Pneumonia — Balanced Dataset](https://www.kaggle.com/datasets/yusufmurtaza01/chest-xray-pneumonia-balanced-dataset?resource=download) dataset from Kaggle.
 
 ## License
 
